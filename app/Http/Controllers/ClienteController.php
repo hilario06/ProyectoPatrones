@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Persona;
+use App\Models\Persona;
 
 class ClienteController extends Controller
 {

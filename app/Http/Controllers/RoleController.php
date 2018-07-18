@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-use App\Role;
+use App\Models\Role;
 
 use Illuminate\Http\Request;
 

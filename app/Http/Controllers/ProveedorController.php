@@ -5,8 +5,8 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 
-use App\Proveedor;
-use App\Persona;
+use App\Models\Proveedor;
+use App\Models\Persona;
 
 
 class ProveedorController extends Controller
